@@ -1,0 +1,6 @@
+[BaseOS]
+name="Oracle Linux 8 EPEL Packages Latest"
+baseurl=http://yum.oracle.com/repo/OracleLinux/OL8/baseos/latest/x86_64
+gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-oracle
+gpgcheck=1
+enabled=1
